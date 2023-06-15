@@ -1,1 +1,13 @@
-/* your code */
+tr:nth-child(even){
+	background-color:lightgrey;
+}
+tr,th{
+	padding:10px;
+	text-align:center;
+}
+th{
+	background-color:powderblue;
+}
+tr:hover{
+	background-color:seagreen;
+}
